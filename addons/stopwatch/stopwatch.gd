@@ -1,12 +1,4 @@
-# Made by UmKraLegal
-
-# Based on original timer.cpp file (MIT license)
-# https://github.com/godotengine/godot/blob/8b692e88726bb7ab114a3a0b1b2ffd973dd4f054/scene/main/timer.cpp
-
-# Stopwatch icon by svgrepo.com (CC0 license)
-# https://www.svgrepo.com/svg/22815/stopwatch
-
-class_name Stopwatch, "stopwatch.svg"
+tool
 extends Node
 
 
